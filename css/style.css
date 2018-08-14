@@ -10,10 +10,29 @@ text-align: center;
 }
 
 
-#Menu ul{
-    list-style: none;
-    text-transform: uppercase;
-}    
+nav{
+	height:100%;
+	min-height: 60px;
+}
+
+nav ul{
+	display:inline;
+}
+
+nav ul li{
+	line-height:60px;
+	display:inline-block;
+}
+
+nav ul li a{
+	text-decoration:none;
+	padding: 15px 20px;
+}
+
+nav ul li a:hover{
+	background-color:#fff;
+	color:#222;
+}  
 
 p{
 text-align: center;
