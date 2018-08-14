@@ -1,0 +1,22 @@
+
+body{
+
+    background: url("../img/fundo.jpg")
+  no-repeat;
+}
+h1{
+text-align: center;
+
+}
+
+
+#Menu ul{
+    list-style: none;
+    text-transform: uppercase;
+}    
+
+p{
+text-align: center;
+font-size: 20px;
+
+}
