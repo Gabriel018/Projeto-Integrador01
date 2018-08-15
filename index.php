@@ -1,16 +1,15 @@
 <!DOCTYPE html>
   <html>
   <head>
-    
+  <h1>Game Overload 5k </h1> 
     <link rel="stylesheet" type="text/css" href="./css/style.css"> 
   </head>
 
   <body>
- 
- <h1>Game Overload</h1>
+
   <p>Garanta o seu ingresso e curta todas as 
       novidades e lançamentos do 
-      mundo dos games,
+      mundo do lançamento PUBG,
        novas tecnologias, campeonatos e 
        muita diversão!
         Vem jogar com a gente!</p>
@@ -36,7 +35,7 @@
 			}	
 		?>
 	</section>
-
+  
 
 </body>
   </html>
