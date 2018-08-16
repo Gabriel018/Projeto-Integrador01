@@ -4,9 +4,7 @@
 	<meta charset="UTF-8">
 	<title>Game_Overload</title>
 	<link rel="stylesheet" href="css/estilo.css">
-</head>
-</style>
-</head>
+	</head>
 <body>
 
 <p id="demo"></p>
