@@ -1,0 +1,67 @@
+/* Todos */
+* { margin:0; padding:0 }
+
+/* Geral */
+
+h1{
+	text-align: center;
+	color: darkred;
+	}
+body{
+	background: url("../img/fundo.jpg")
+
+}
+.direita{float:right}
+.clearflix{float:none; clear:bold}
+.center{margin:auto; text-align:center}
+.container{
+	width:10%;
+	min-width:320px;
+	max-width:1280px;
+	margin:auto;
+}
+
+/* Cores */
+.preto{ color:#222 }
+.bg-preto{ background-color:#222 }
+.branco{ color:#999 }
+.bg-branco{ background-color:#999 }
+
+/* Menu */
+nav{
+	height:10%;
+	min-height: 60px;
+}
+
+nav ul{
+	display:inline;
+}
+
+nav ul li{
+	line-height:60px;
+	display:inline-block;
+}
+
+nav ul li a{
+	text-decoration:none;
+	color:#fff;
+	padding: 10px 20px;
+}
+
+nav ul li a:hover{
+	background-color:#fff;
+	color:#222;
+}
+
+/* Formularios */
+label{
+	display:block;
+	margin-top:10px;
+}
+
+input, button{
+	padding:5px;
+}
+
+
+
