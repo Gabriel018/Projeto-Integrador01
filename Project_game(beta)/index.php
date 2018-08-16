@@ -39,6 +39,22 @@ var x = setInterval(function() {
     }
 }, 1000);
 </script>
+	<script>
+     function comprar(){
+        
+		alert("Compre o jogo noob");
+
+
+	 }
+
+    setTimeout(function() {
+
+		comprar();
+		
+	}, 3000);
+
+
+	</script>	
 	
 	<nav class="bg-preto">
 		<ul class="">
