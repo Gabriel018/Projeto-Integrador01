@@ -6,7 +6,14 @@
   </head>
 
   <body>
+  <script>
+function funcao1()
+{
+alert("Os ingressos estao  se esgotando!!");
+}
+</script>
 
+<input type="button" onclick="funcao1()" value="QUASE ESGOTADO!!!" />
   <p>Garanta o seu ingresso e curta todas as 
       novidades e lançamentos do 
       mundo do lançamento PUBG,

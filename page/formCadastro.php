@@ -1,5 +1,5 @@
 
-<form action="controller/cliente.php" method="post">
+<form action="controle/cadastro.php" method="post">
 	<label for="">Nome</label>
 	<input type="text" name="nome">
 	
