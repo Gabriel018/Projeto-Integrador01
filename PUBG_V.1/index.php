@@ -49,7 +49,7 @@ var x = setInterval(function() {
 		<ul class="">
 			<li><a href="index.php">Inicio</a></li>
 			<li><a href="?noticias">Noticias</a></li>
-			<li><a href="?listarCliente">Listar Cliente</a></li>
+			
 		</ul>
 		
 		<ul class="direita">
